@@ -6,7 +6,7 @@ from xgboost import XGBClassifier
 from scikit.sklearn.model_selection import train_test_split
 from scikit.sklearn import metrics
 
-# Thank you for using my sample! For more detailed information on XGBoost, visit
+# Thank you for using my sample. For more detailed information on XGBoost, visit
 # https://www.datacamp.com/community/tutorials/xgboost-in-python and
 # https://towardsdatascience.com/exploring-xgboost-4baf9ace0cf6
 
